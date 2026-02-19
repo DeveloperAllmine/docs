@@ -62,25 +62,9 @@
         ]
       },
       {
-        "tab": "API reference",
-        "openapi": "https://dev-api.allminelive.com/swagger/all-json",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
+        "tab": "API reference Allmine",
+        "href": "https://dev-api.allminelive.com/swagger/all-json",
+        "openapi": "https://dev-api.allminelive.com/swagger/all-json"
       }
     ]
   },
